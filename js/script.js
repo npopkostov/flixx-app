@@ -481,8 +481,8 @@ function init() {
       displayPopularMovies();
       break;
     case "/shows.html":
-      console.log("Shows");
       displayPopularTvShows();
+      console.log("Shows");
       break;
     case "/movie-details.html":
       displayMovieDetails();
